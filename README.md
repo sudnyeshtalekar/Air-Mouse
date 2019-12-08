@@ -19,7 +19,7 @@ Android sensors controlled mouse cursor(Accelerometer and light intensity).
 
 FREE Sensor Node Apk:   <br />
 https://play.google.com/store/apps/details?id=com.mscino.sensornode&hl=en. 
-![image](https://qph.fs.quoracdn.net/main-qimg-e29636d1e41654fd5b9367b1739f0ccc.webp)
+
 
 1. Select Stream.  <br />
 2. Check Accelerometer and Light Intensity.  <br />
